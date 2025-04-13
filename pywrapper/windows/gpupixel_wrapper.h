@@ -4,6 +4,8 @@
 #include "gpupixel.h"
 using namespace gpupixel;
 
+#define _DEBUG
+
 
 class GPUPixelWrapper {
 
