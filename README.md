@@ -2,6 +2,7 @@
 
 A simple python wrapper for [gpupixel](https://github.com/pixpark/gpupixel) using SourceRawDataInput and TargetRawDataOutput.<br/>
 Code in this repository was only tested on Windows 10.
+now can use `build.sh` to build
 
 ## 1. Modify and build gpupixel
 
